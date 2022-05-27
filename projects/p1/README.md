@@ -165,6 +165,7 @@ In `practice.py`, implement the following functions:
     [(3, 4, 5), (6, 8, 10), (5, 12, 13), (9, 12, 15), (8, 15, 17)]
     ```
 8. `custom_sort(lst)`
+
    Use Python's built-in `sort` function to sort the list so that the odd numbers (in the same order as in the original list) come first, and then the      even numbers (also in the same order).
    
    Examples:
