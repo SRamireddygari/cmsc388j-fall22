@@ -164,6 +164,17 @@ In `practice.py`, implement the following functions:
     >>> pythagorean_triples(20)
     [(3, 4, 5), (6, 8, 10), (5, 12, 13), (9, 12, 15), (8, 15, 17)]
     ```
+8. `custom_sort(lst)`
+   Use Python's built-in `sort` function to sort the list so that the odd numbers (in the same order as in the original list) come first, and then the      even numbers (also in the same order).
+   
+   Examples:
+   ```python
+   >>> custom_sort([1, 2, 3, 4, 5])
+   [(1, 3, 5, 2, 4)]
+   ```
+   (Hint: use a lambda function)
+
+   
 
 ## Testing
 
