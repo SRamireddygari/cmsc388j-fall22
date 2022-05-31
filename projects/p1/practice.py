@@ -87,36 +87,6 @@ def num_func_mapper(nums, funs):
     raise NotImplementedError('Please implement this function for full credit')
 
 
-def validate_grid_indices(grid_indices, grid_size):
-    """This problem is taken from an open-source LIDAR occupancy grid
-    visualization project (not released, yet, though).
-    Given a sequence of sequences of numbers `grid_indices` and
-    an integer `grid_size`, validate that `grid_indices` satisfies
-    these three conditions, and throw a ValueError with the specified
-    error message if a certain condition is violated. Return nothing
-    if the validation is successful.
-    
-    1. The length of `grid_indices` must be 1, 2, or 3.
-        Error message on failure: "Length of grid_indices is wrong."
-    2. The length of each sequence in `grid_indices` must be 2.
-        Error message on failure: "Sub-sequences must be length 2."
-    3. For each sub-sequence in `grid_indices`, the difference 
-    between the second item and the first item must be equal to `grid_size`.
-        Error message on failure: "Grid indexes do not match grid_size."
-
-    Arguments:
-    grid_indices -- A sequence of sequences of numbers
-    grid_size -- An integer
-
-    Usage:
-    >>> validate_grid_indices((1, 3), 2)
-    >>> validate_grid_indices((3, 73),
-            (73, 143),
-            (143, 213),), 70)
-    """
-    raise NotImplementedError('Please implement this function for full credit')
-
-
 def pythagorean_triples(n):
     """ Finds all pythagorean triples where a, b, and c (sides of the triangle)
     are all less than n units long. This function should not return distinct tuples
@@ -137,4 +107,8 @@ def pythagorean_triples(n):
     >>> pythagorean_triples(20)
     [(3, 4, 5), (6, 8, 10), (5, 12, 13), (9, 12, 15), (8, 15, 17)]
     """
+    raise NotImplementedError('Please implement this function for full credit')
+    
+def custom_sort(lst):
+    """ 
     raise NotImplementedError('Please implement this function for full credit')
