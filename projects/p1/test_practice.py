@@ -94,69 +94,12 @@ def test_num_func_mapper_2():
     assert [32, 9, 2] == p.num_func_mapper(nums, funs)
 
 
-def test_validate_grid_indices_happy():
-    grid_indices = ((1, 3),)
-    p.validate_grid_indices(grid_indices, 2)
-
-    step = random.randint(5, 15)
-    start = random.randint(0, 10)
-    grid_indices = (
-        (start, start + step), 
-        (start + step, start + (step * 2)), 
-        (start + (step * 2), start + (step * 3))
-    )
-
-    p.validate_grid_indices(grid_indices, step)
-
-
-def test_validate_grid_indices_1():
-    def helper(grid_indices):
-        with pytest.raises(ValueError) as e:
-            p.validate_grid_indices(grid_indices, 1)
-        
-        assert str(e.value) == "Length of grid_indices is wrong."
-
-    grid_indices = []
-    helper(grid_indices)
-
-    grid_indices = [(i * 2, i * 2 + 1) for i in range(4)]
-    helper(grid_indices)
-
-    grid_indices = [(i * 2, i * 2 + 1) for i in range(10)]
-    helper(grid_indices)
-
-
-def test_validate_grid_indices_2():
-    def helper(grid_indices):
-        with pytest.raises(ValueError) as e:
-            p.validate_grid_indices(grid_indices, 1)
-        
-        assert str(e.value) == "Sub-sequences must be length 2."
-
-    for num in range(1, 4):
-        grid_indices = [(i,) for i in range(num)]
-        helper(grid_indices)
-
-    for num in range(1, 4):
-        for sub_len in range(3, 10):
-            grid_indices = [(j,) * sub_len for j in range(num)]
-            helper(grid_indices)
-
-
-def test_validate_grid_indices_3():
-    def helper(grid_indices, grid_size):
-        with pytest.raises(ValueError) as e:
-            p.validate_grid_indices(grid_indices, grid_size)
-        
-        assert str(e.value) == "Grid indexes do not match grid_size."
-
-    for num in range(1, 4):
-        for size in range(10):
-            grid_indices = [(i * 2, i * 2 + size + 1) for i in range(num)]
-            helper(grid_indices, size)
-
-
 def test_pythagorean_triples():
     assert [(3, 4, 5)] == p.pythagorean_triples(10)
     assert [(3, 4, 5), (6, 8, 10)] == p.pythagorean_triples(11)
     assert [(3, 4, 5), (6, 8, 10), (5, 12, 13), (9, 12, 15), (8, 15, 17)] == p.pythagorean_triples(20)
+
+def test_custom_sort():
+    assert [1, 3, 5, 2, 4] == p.custom_sort([1, 2, 3, 4, 5])
+    assert [5, 5, 5, 4, 4, 4] == p.custom_sort([4, 5, 4, 5, 5, 4])
+    
