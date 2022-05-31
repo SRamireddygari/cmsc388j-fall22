@@ -110,5 +110,12 @@ def pythagorean_triples(n):
     raise NotImplementedError('Please implement this function for full credit')
     
 def custom_sort(lst):
-    """ 
+    """ Use Python's built-in sort function to sort the list so that the odd numbers (in the same order as in the original list) come first, and then the even numbers (also in the same order).
+
+    Examples:
+
+    >>> custom_sort([1, 2, 3, 4, 5])
+    [(1, 3, 5, 2, 4)]
+    (Hint: use a lambda function) 
+    """
     raise NotImplementedError('Please implement this function for full credit')
