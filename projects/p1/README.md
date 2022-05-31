@@ -118,34 +118,7 @@ In `practice.py`, implement the following functions:
     [11, 15]
     ```
 
-6. `validate_grid_indices(grid_indices, grid_size)`
-
-    This problem is taken from an open-source LIDAR occupancy grid
-    visualization project (not released, yet, though).
-    Given a sequence of sequences of numbers `grid_indices` and
-    an integer `grid_size`, validate that `grid_indices` satisfies
-    these three conditions, and throw a ValueError with the specified
-    error message if a certain condition is violated. Return nothing
-    if the validation is successful.
-    
-    1. The length of `grid_indices` must be 1, 2, or 3.
-        Error message on failure: "Length of grid_indices is wrong."
-    2. The length of each sequence in `grid_indices` must be 2.
-        Error message on failure: "Sub-sequences must be length 2."
-    3. For each sub-sequence in `grid_indices`, the difference 
-    between the second item and the first item must be equal to `grid_size`.
-        Error message on failure: "Grid indexes do not match grid_size."
-
-    Example:
-    ```python
-    >>> validate_grid_indices((1, 3), 2)
-    >>> validate_grid_indices((3, 73),
-            (73, 143),
-            (143, 213),), 70)
-    ```
-    NOTE: these inputs will not output anything
-
-7. `pythagorean_triples(n)`
+6. `pythagorean_triples(n)`
 
     Finds all pythagorean triples where `a`, `b`, and `c` (side lengths of a triangle)
     are all less than `n` units long. This function should not return distinct tuples
@@ -164,7 +137,7 @@ In `practice.py`, implement the following functions:
     >>> pythagorean_triples(20)
     [(3, 4, 5), (6, 8, 10), (5, 12, 13), (9, 12, 15), (8, 15, 17)]
     ```
-8. `custom_sort(lst)`
+7. `custom_sort(lst)`
 
    Use Python's built-in `sort` function to sort the list so that the odd numbers (in the same order as in the original list) come first, and then the      even numbers (also in the same order).
    
