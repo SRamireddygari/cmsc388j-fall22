@@ -16,9 +16,9 @@ and more! At the end of the course, you'll be able to deploy your app for the wo
 
 ## Staff
 - **Course Facilitators**:
-    - Alexander Liu
-    - Pace Ockerman
-    - Shrikar Vasisht
+    - Alexander Liu (aliu4131@terpmail.umd.edu)
+    - Pace Ockerman (pace@terpmail)
+    - Shrikar Vasisht (svasisht@terpmail)
 - **Faculty Advisor**:
     - Michael Marsh
 
