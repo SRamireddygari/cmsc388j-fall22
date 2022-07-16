@@ -20,7 +20,7 @@ and more! At the end of the course, you'll be able to deploy your app for the wo
     - Pace Ockerman (pace@terpmail)
     - Shrikar Vasisht (svasisht@terpmail)
 - **Faculty Advisor**:
-    - Michael Marsh
+    - Michael Marsh (mmarsh@cs.umd.edu)
 
 ### Contact
 Email and Discord contact information are listed on ELMS.
