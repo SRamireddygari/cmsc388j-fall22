@@ -33,7 +33,7 @@ emailing one of the facilitators, make sure to CC the others. Additionally, plea
 `[CMSC 388J]` at the start of your subject line so we don't accidentally ignore your email.
 
 ## Office Hours
-[TO BE DETERMINED]
+The instructors usually won't have set office hours, but you can email us to schedule a meeting. Closer to when projects are due, we'll probably have extra office hours to help students.
 
 ## Topics Covered [TO BE REVIEWED]
 - Python
