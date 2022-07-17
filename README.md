@@ -132,9 +132,9 @@ percentages:
 
 | Percentage | Title         | Additional Info                   |
 | ---------- | ------------- | --------------------------------- |
-| 10%        | Quizzes       | All quizzes are weighted equally. |
-| 55%        | Projects      | [INSERT BREAKDOWN BY PROJECT]     |
-| 35%        | Final Project |                                   |
+| 15%        | Quizzes       | All quizzes are weighted equally. |
+| 35%        | Projects      | 5 projects weighted at 7% each.   |
+| 50%        | Final Project |                                   |
 
 Any regrade requests must be submitted
 no more than **one week** after the grade is posted. No requests will be considered afterwards.
