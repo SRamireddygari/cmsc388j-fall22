@@ -26,13 +26,13 @@ and more! At the end of the course, you'll be able to deploy your app for the wo
 Email and Discord contact information are listed on ELMS.
 
 Please use [Discord](https://discord.com/) as your primary communication with us; we'll get back to you the
-fastest there. Invite links to the class server will be sent out to each student the beginning of the semester.
+fastest there. Invite links to the class server will be sent out to each student at the beginning of the semester.
 
 If you are unable to use Discord, then email us; if you are
 emailing one of the facilitators, make sure to CC the others. Additionally, please include
 `[CMSC 388J]` at the start of your subject line so we don't accidentally ignore your email.
 
-## Office hours
+## Office Hours
 [TO BE DETERMINED]
 
 ## Topics Covered [TO BE REVIEWED]
@@ -77,7 +77,7 @@ emailing one of the facilitators, make sure to CC the others. Additionally, plea
   - Git
 
 ## Schedule [TO BE REVIEWED]
-| Week | Date  | Topic                                           | Assignment                                      |
+| Week | Date  | Topic                                          | Assignment                                      |
 | ---- | ----- | ---------------------------------------------- | ----------------------------------------------- |
 | 1    | 9/2   | Intro to Python                                | P1 assigned                                     |
 | 2    | 9/9   | Flask Intro                                    | P1 due, P2 assigned, Quiz 1 assigned: weeks 1-2 |
@@ -86,15 +86,15 @@ emailing one of the facilitators, make sure to CC the others. Additionally, plea
 | 5    | 9/30  | User Management                                | Quiz 2 due                                      |
 | 6    | 10/7  | Bootstrap & more                               | P3 due, P4 assigned, Quiz 3 assigned: weeks 5-6 |
 | 7    | 10/14 | In-depth CSS & JS*                             | Quiz 3 due                                      |
-| 8    | 10/21 | None - break week                              | P4 due                                          |
+| 8    | 10/21 | *None - break week*                            | P4 due                                          |
 | 9    | 10/28 | Extensions, Logging, App Factories, Blueprints | P5 assigned                                     |
 | 10   | 11/4  | HTTP Headers & Talisman                        | Quiz 4 assigned, weeks 7-10                     |
 | 11   | 11/11 | Two-Factor Authentication                      | P5 due, Quiz 4 due, Final Project assigned      |
 | 12   | 11/18 | Some Useful Python Packages                    | Proposal due, Quiz 5 assigned, weeks 11-12      |
-| 13   | 11/25 | THANKSGIVING BREAK                             |                                                 |
+| 13   | 11/25 | *THANKSGIVING BREAK*                           |                                                 |
 | 14   | 12/2  | Deploying your app                             | Quiz 5 due                                      |
 | 15   | 12/9  | Payments with Stripe*                          |                                                 |
-| 16   | 12/?? | None - finals week                             | Final Project due                               |
+| 16   | 12/?? | *None - finals week*                           | Final Project due                               |
 
 * See **Flexible Schedule** section below
 
@@ -126,7 +126,7 @@ to build a Flask web application from scratch and deploy
 the app on a hosting platform. Requirements for the final project will come out
 towards the end of the semester.
 
-## Grading [TO BE REVIEWED]
+## Grading
 Grades will be maintained on ELMS. Your final course grade will be determined according to the following
 percentages:
 
@@ -134,7 +134,7 @@ percentages:
 | ---------- | ------------- | --------------------------------- |
 | 15%        | Quizzes       | All quizzes are weighted equally. |
 | 35%        | Projects      | 5 projects weighted at 7% each.   |
-| 50%        | Final Project |                                   |
+| 50%        | Final Project | -                                 |
 
 Any regrade requests must be submitted
 no more than **one week** after the grade is posted. No requests will be considered afterwards.
