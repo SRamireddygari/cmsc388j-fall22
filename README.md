@@ -32,8 +32,8 @@ If you are unable to use Discord, then email us; if you are
 emailing one of the facilitators, make sure to CC the others. Additionally, please include
 `[CMSC 388J]` at the start of your subject line so we don't accidentally ignore your email.
 
-## Office Hours
-The instructors usually won't have set office hours, but you can email or ping us on Discord to schedule a meeting. Closer to when projects are due, we'll probably have extra office hours to help students.
+### Office Hours
+The instructors usually won't have set office hours, but you can email or ping us on Discord to schedule a meeting. Closer to when projects are due, we'll probably have extra office hours to help students. Meetings can be in-person or virtually via Discord or Zoom.
 
 ## Topics Covered [TO BE REVIEWED]
 - Python
