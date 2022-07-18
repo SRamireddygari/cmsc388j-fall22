@@ -133,7 +133,7 @@ percentages:
 | Percentage | Title         | Additional Info                   |
 | ---------- | ------------- | --------------------------------- |
 | 15%        | Quizzes       | All quizzes are weighted equally. |
-| 35%        | Projects      | 5 projects weighted at 7% each.   |
+| 35%        | Projects      | 5 projects totaling to 35% of overall grade.   |
 | 50%        | Final Project | -                                 |
 
 Any regrade requests must be submitted
