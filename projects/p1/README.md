@@ -1,10 +1,10 @@
 # P1: Python practice 
 
-**Assigned**: Week 1, January 27th, 2022
+**Assigned**: September 2nd, 2022
 
-**Due**: Week 2, February 1st, 2021 11:59PM
+**Due**: September 8th, 2022 11:59PM
 
-**Late deadline**: Friday, February 4th 11:59PM
+**Late deadline**: September 11th 11:59PM
 
 ## Description
 
@@ -12,14 +12,14 @@ You will be implementing some basic functions in Python as practice, including u
 
 ## Setup
 
-Make sure Python 3.9 (or higher) is installed on your computer.
+Make sure Python 3.10 is installed on your computer.
 
 You should work on this project (and the other projects in this course) in a virtual environment.
 Navigate to the root of a directory you will use for this class. You should use the same environment
 for all projects in this course; you don't need more than one.
 To create and activate one, enter the following commands in your terminal:
 
-> Tip: You can clone the whole repo (`cmsc388j-spring22`) and use that as your root directory for this class. Then, you can just run `git pull` to get new projects.
+> Tip: You can clone the whole repo (`cmsc388j-fall22`) and use that as your root directory for this class. Then, you can just run `git pull` to get new projects.
 
 For Mac/Linux:
 ```bash
@@ -139,7 +139,7 @@ In `practice.py`, implement the following functions:
     ```
 7. `custom_sort(lst)`
 
-   Use Python's built-in `sort` function to sort the list so that the odd numbers (in the same order as in the original list) come first, and then the      even numbers (also in the same order).
+   Use Python's built-in `sort` function to sort the list so that the odd numbers (in the same order as in the original list) come first, and then the even numbers (also in the same order).
    
    Examples:
    ```python
@@ -148,7 +148,7 @@ In `practice.py`, implement the following functions:
    ```
    (Hint: use a lambda function)
 
-   
+
 
 ## Testing
 
@@ -158,10 +158,10 @@ You should see your test results in the terminal.
 ## Submission & Grading
 
 Compress a `p1` directory into a .zip file containing `practice.py` and `test_practice.py`
-and submit it on ELMS after testing thoroughly; all of your work should be in this module.
+and submit it on ELMS after testing thoroughly; all of your work should be in this module. Do **not** include your virtual environment in your submission.
 
-There are 16 public tests, and each will be worth 10 points.
+There are **160** possible points: 16 public tests worth 10 points each.
+
 If your submission doesn't have the `practice.py` and `test_practice.py` files, 
 20 points will be deducted from your score.
-Do not include your virtual environment in your submission.
-Doing so will result in a deduction of 20 points.
+If you include your virtual environment in your submission, 20 points will be deducted from your score.
