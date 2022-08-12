@@ -1,4 +1,4 @@
-# P2: First Flask App
+# P2: First Flask App - "Poke-Info"
 
 **Assigned**: September 8th, 2022
 
