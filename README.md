@@ -35,7 +35,7 @@ emailing one of the facilitators, make sure to CC the others. Additionally, plea
 ### Office Hours
 The instructors usually won't have set office hours, but you can email or ping us on Discord to schedule a meeting. Closer to when projects are due, we'll probably have extra office hours to help students. Meetings can be in-person or virtually via Discord or Zoom.
 
-## Topics Covered [TO BE REVIEWED]
+## Topics Covered
 - Python
   - Variables, expressions, operators
   - Iterations, conditionals, collections
@@ -76,7 +76,7 @@ The instructors usually won't have set office hours, but you can email or ping u
 - Version Control
   - Git
 
-## Schedule [TO BE REVIEWED]
+## Schedule
 | Week | Date  | Topic                                          | Assignment                                      |
 | ---- | ----- | ---------------------------------------------- | ----------------------------------------------- |
 | 1    | 9/2   | Intro to Python                                | P1 assigned                                     |
@@ -98,7 +98,7 @@ The instructors usually won't have set office hours, but you can email or ping u
 
 * See **Flexible Schedule** section below
 
-### Flexible Schedule [TO BE REVIEWED]
+### Flexible Schedule
 Weeks 7 and 14 will have a main topic of discussion, but during these weeks, we'll also try
 to teach topics requested by the students. So if you guys feel like you need more info about
 a certain topic or just want to learn a new idea altogether, let us know, and we'll try to add it in.
@@ -159,8 +159,7 @@ will be your grade for that project.
 
 ## University Policies
 ### COVID-19 Guidance
-
-[TO BE DETERMINED]
+See the [COVID-19 Information webpage](https://umd.edu/4maryland) for the latest information. Currently masks are not required inside classrooms but recommended.
 
 ### Excused Absence and Academic Accommodations
 See the section titled "Attendance, Absences, or Missed Assignments" available at
