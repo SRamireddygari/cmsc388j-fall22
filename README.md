@@ -23,17 +23,12 @@ and more! At the end of the course, you'll be able to deploy your app for the wo
     - Michael Marsh (mmarsh@cs.umd.edu)
 
 ### Contact
-Email and Discord contact information are listed on ELMS.
+If you are emailing one of the facilitators, make sure to CC the others. Additionally, please include `[CMSC 388J]` at the start of your subject line so we don't accidentally ignore your email. You are welcome to contact us via Discord as well; our usernames are listed on ELMS.
 
-Please use [Discord](https://discord.com/) as your primary communication with us; we'll get back to you the
-fastest there. Invite links to the class server will be sent out to each student at the beginning of the semester.
-
-If you are unable to use Discord, then email us; if you are
-emailing one of the facilitators, make sure to CC the others. Additionally, please include
-`[CMSC 388J]` at the start of your subject line so we don't accidentally ignore your email.
+We will also be using Piazza. Invite links were sent out via ELMS announcement.
 
 ### Office Hours
-The instructors usually won't have set office hours, but you can email or ping us on Discord to schedule a meeting. Closer to when projects are due, we'll probably have extra office hours to help students. Meetings can be in-person or virtually via Discord or Zoom.
+The instructors usually won't have set office hours, but you can email or DM us on Discord to schedule a meeting. Closer to when projects are due, we'll probably have extra office hours to help students. Meetings can be in-person or virtually via Zoom or Discord.
 
 ## Topics Covered
 - Python
