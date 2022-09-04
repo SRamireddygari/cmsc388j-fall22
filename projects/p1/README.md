@@ -160,7 +160,7 @@ You should see your test results in the terminal.
 Compress a `p1` directory into a .zip file containing `practice.py` and `test_practice.py`
 and submit it on ELMS after testing thoroughly; all of your work should be in this module. Do **not** include your virtual environment in your submission.
 
-There are **160** possible points: 16 public tests worth 10 points each.
+There are **130** possible points: 13 public tests worth 10 points each.
 
 If your submission doesn't have the `practice.py` and `test_practice.py` files, 
 20 points will be deducted from your score.
