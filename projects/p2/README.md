@@ -14,7 +14,7 @@ about the pokemon, as well as to see which pokemon have a certain ability.
 ## Setup
 
 We recommend using the same virtual environment for all projects, so you can
-use a common one created in `CMSC388J-spring22/`, the root of the class repository.
+use a common one created in `CMSC388J-fall22/`, the root of the class repository.
 
 Once you have a virtual environment, activate it,
 use the appropriate command for your system.
@@ -173,5 +173,5 @@ An example of a small error: syntax error in a Jinja template.
 An example of a large error: a view function not being configured properly.
 
 
-The project will be graded out of a 100 points. You won't be graded for style, but make
+The project will be graded out of **100** points. You won't be graded for style, but make
 sure your code is readable.
