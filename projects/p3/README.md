@@ -1,10 +1,10 @@
 # P3: Movie Ratings Database
 
-**Assigned**: February 16th, 2022
+**Assigned**: September 25th, 2022
 
-**Deadline**: March 1st, 2022, 11:59 PM Eastern
+**Deadline**: October 7th, 2022, 11:59 PM Eastern
 
-**Late deadline**: March 1st
+**Late deadline**: October 10th
 
 ## Description
 
