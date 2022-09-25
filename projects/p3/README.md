@@ -4,7 +4,7 @@
 
 **Deadline**: October 7th, 2022, 11:59 PM Eastern
 
-**Late deadline**: October 7th
+**Late deadline**: October 10th, 11:59 PM Eastern
 
 ## Description
 
